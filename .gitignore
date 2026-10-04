@@ -1,0 +1,33 @@
+# Build e Gradle
+*.iml
+.gradle/
+build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# File locali
+local.properties
+
+# Impostazioni IDE
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# APK e bundle generati
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Firma e segreti
+*.jks
+*.keystore
+keystore.properties
+
+# Log
+*.log
+
+.artifacts/
